@@ -1,4 +1,4 @@
 # Lab-Managment
 This is My First Repository
 <br/>
-Author - <bold>Md Wasim Akhtar</bold>
+Author - <s>Md Wasim Akhtar (King_Akhtar)</s>
